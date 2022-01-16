@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-#include<unordered_set>
+#include<cstring>
 using namespace std;
 
 vector<int> funcmame(vector<int> arr,int Sum) {
