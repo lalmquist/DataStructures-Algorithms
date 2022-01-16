@@ -11,7 +11,7 @@ pair<int,int> minDifference(vector<int> a,vector<int> b){
     int min_diff = INT_MAX;
     pair<int,int> ans;
 
-    int i, j = 0;
+    int i = 0, j = 0;
     
     int sa = a.size();
     int sb = b.size();
